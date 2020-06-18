@@ -1,0 +1,8 @@
+{
+  "body": "{\"content\":\"hola mundo\",\"attachment\":\"hola.jpg\"}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
